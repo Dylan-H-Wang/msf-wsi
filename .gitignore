@@ -1,0 +1,13 @@
+**/__pycache__
+**/*.pt
+**/*.pth
+**/*.tar
+**/*.pkl
+**/wandb
+hubmap_dataset_error.txt
+error.txt
+logs/temp*
+**/.ipynb_checkpoints
+
+data/**
+logs/visualisation/*
